@@ -33,7 +33,7 @@ input{
 .equal{
     width: 47%;
 }
-@media screen and (max-width:1080px){
+@media screen and (max-width:1180px){
 form {
     background-color: rgb(93, 93, 93);
     font-size: large;
