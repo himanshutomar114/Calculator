@@ -33,7 +33,7 @@ input{
 .equal{
     width: 47%;
 }
-@media screen and (max-width:1080px){
+@media screen and (max-width:1080px and min-width:900px){
     form{
         margin-right: 54%;
     }
